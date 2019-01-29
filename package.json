@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "dependencies": {
+    "vetur": {
+      "tags": "dist/vetur/tags.json",
+      "attributes": "dist/vetur/attributes.json"
+    }
+  },
+  "devDependencies": {
+    "vue": "^2.5.22",
+    "vue-class-component": "^6.3.2",
+    "vue-property-decorator": "^7.3.0"
+  }
+}
